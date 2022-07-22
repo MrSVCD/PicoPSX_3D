@@ -48,10 +48,13 @@ module pico(){
     translate([ 11.4/2,-47/2,0]) cylinder(h=2,d=2);
     translate([-11.4/2,-47/2,0]) cylinder(h=2,d=2);
   }
+
   translate([-13.4/2,-51/2,0]) cube([13.4,51,2]);
-  
-  translate([ 11.4/2, 47/2,0]) cylinder(h=5,d=1.8);
-  translate([-11.4/2, 47/2,0]) cylinder(h=5,d=1.8);
-  translate([ 11.4/2,-47/2,0]) cylinder(h=5,d=1.8);
-  translate([-11.4/2,-47/2,0]) cylinder(h=5,d=1.8);
+
+  color("green"){
+    translate([ 11.4/2, 47/2,0]) cylinder(h=5,d=1.8);
+    translate([-11.4/2, 47/2,0]) cylinder(h=5,d=1.8);
+    translate([ 11.4/2,-47/2,0]) cylinder(h=5,d=1.8);
+    translate([-11.4/2,-47/2,0]) cylinder(h=5,d=1.8);
+  }
 }
