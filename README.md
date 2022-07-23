@@ -4,7 +4,7 @@
 ## Memorycard
 ![Version 1](/Images/PicoPSXMemory_v1_scad.png)
 
-PicoPSXMemory_v1.scad and PicoPSXMemory_v1.stl is models for making dangius [PicoMemory card](https://github.com/dangiu/PicoMemcard) using a 3D print, a pice of single strand cat5 network cable and a Raspberry Pi Pico. 
+PicoPSXMemory_v1.scad and PicoPSXMemory_v1.stl is models for making dangius [PicoMemcard](https://github.com/dangiu/PicoMemcard) using a 3D print, a pice of single strand cat5 network cable and a Raspberry Pi Pico. 
 
 To mount the Pico use dubble stick tape or melt down the pillars (in green in the render) in the mounting holes of the Pico.
 
